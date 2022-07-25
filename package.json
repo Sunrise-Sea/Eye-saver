@@ -1,0 +1,22 @@
+{
+    "name": "ultra-dark",
+    "displayName": "Ultra_dark",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "pratyush",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Ultra Dark Theme for better eyes",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Ultra Dark Theme for better eyes-color-theme.json"
+            }
+        ]
+    }
+}
